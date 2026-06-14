@@ -1,0 +1,13 @@
+{
+  "tasks": [],
+  "users": [
+    {
+      "uid": "demo-user-1337",
+      "displayName": "Demo Architect ✦",
+      "email": "architect@ultra-t.io",
+      "photoURL": null,
+      "providerId": "local",
+      "isDemo": true
+    }
+  ]
+}
